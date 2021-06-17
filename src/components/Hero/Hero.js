@@ -9,7 +9,7 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Mrityunjay Singh Faujar <br />
+          Mrityunjay Singh Faujdar <br />
         </SectionTitle>
         <SectionText>
         A Full Stack Developer with 3+ years of experience. Worked in both Front-end and Back-end technologies. Seeking to further improve MERN stack development skills. Skilled in using JavaScript, NodeJS, ReactJS and ExpressJS. 
